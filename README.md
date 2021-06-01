@@ -19,7 +19,7 @@ React todo app with **create-react-app**
 
 ## Live demo 📎
 
-[Link]() 👈👈👈
+[Link](https://todo-app-psi-five.vercel.app) 👈👈👈
 
 ### Author 🧔
 
